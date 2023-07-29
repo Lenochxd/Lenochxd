@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I'm Lenoch, a 17-year-old student from France. I'm
 
 ## 🔭 What I'm working on
 
-I'm currently working on a project called WebDeck, a Flask application that mimics the Elgato stream deck for mobile devices, using Jinja, JS, and Python Flask.
+I'm currently working on a project called WebDeck, a Flask application that mimics the Elgato stream deck for mobile devices for free, using Jinja, JS, and Python Flask.
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://www.pngkit.com/png/full/70-701749_this-free-icons-png-design-of-python-language.png"></code>
