@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm Lenoch, a 17-year-old student from France. I'm passionate about coding and currently focused on Python, with a growing interest in JavaScript. I'm actively learning and exploring Flask and Jinja frameworks.
+Welcome to my GitHub profile! I'm Lenoch, a 18yo student from France. I'm passionate about coding and currently focused on Python, with a growing interest in JavaScript. I'm actively learning and exploring Flask and Jinja frameworks.
 
 ## 🔭 What I'm working on
 
