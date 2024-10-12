@@ -6,10 +6,18 @@ I'm currently working on [WebDeck](https://github.com/Lenochxd/WebDeck), a Flask
 
 ## 💻 Technologies & Tools
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="python" src="https://www.pngkit.com/png/full/70-701749_this-free-icons-png-design-of-python-language.png"></code>
-<code><img height="20" alt="jinja" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_jinja_logo_icon_169846.png"></code>
-<code><img height="20" alt="fastapi" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code> <br><be>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
 
 <details>
   <summary>⚡ Code stats</summary>
